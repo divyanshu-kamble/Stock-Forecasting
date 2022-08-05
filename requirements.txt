@@ -1,0 +1,10 @@
+streamlit
+matplotlib
+datetime
+yfinance
+numpy
+plotly
+pandas
+prophet
+seaborn
+import_ipynb
