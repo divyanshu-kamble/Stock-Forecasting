@@ -34,8 +34,11 @@ Open this on your browser
 ## Tools used
 
 Python - The language of choice for the project 
+
 Numpy - NumPy is a Python library used for working with arrays. It also has functions for working in domain of linear algebra, fourier transform, and matrices.
+
 Plotly - It is used to visualize the stock data in web app with ineractive model.
+
 Pandas - Used to manipulate the stock data from yfinance and create the data for training
 Yfinance - Used to gather the stock data from web.
 FB prophet -Is an open-source algorithm for generating time-series models that will train the stock data and forecast it.
