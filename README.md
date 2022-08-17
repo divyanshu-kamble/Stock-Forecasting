@@ -40,8 +40,14 @@ Numpy - NumPy is a Python library used for working with arrays. It also has func
 Plotly - It is used to visualize the stock data in web app with ineractive model.
 
 Pandas - Used to manipulate the stock data from yfinance and create the data for training
+
 Yfinance - Used to gather the stock data from web.
+
 FB prophet -Is an open-source algorithm for generating time-series models that will train the stock data and forecast it.
+
 Seaborn - Seaborn is a library that uses Matplotlib underneath to plot graphs. It will be used to visualize random distributions.
+
 Streamlit - Streamlit is an open source app framework in Python language. It helps us create web apps for data science and machine learning in a short time.
+
 Docker - Docker is used for deployment of the streamlit web app.
+
